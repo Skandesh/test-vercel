@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.payment{
+    background-color: blue;
+    color: #ffffff;
+    height: 54px;
+    width: 234px;
+}
